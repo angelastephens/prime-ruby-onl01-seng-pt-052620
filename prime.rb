@@ -8,5 +8,5 @@ return false
 else
 (2..n-1).to.a.all? do |possible_factor|
 n possible_factor !=
-end
+  end
 end
