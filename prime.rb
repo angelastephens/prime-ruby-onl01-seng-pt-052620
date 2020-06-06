@@ -1,7 +1,3 @@
-def prime?(n)
-  require 'prime'
-end
-
 def prime(n)
 if n < 0 or n ==0 or n == 1
 return false
