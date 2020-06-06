@@ -6,4 +6,4 @@ def prime(n)
   n possible_factor !=
   end
 end
-end
+
