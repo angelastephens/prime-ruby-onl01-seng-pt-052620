@@ -1,4 +1,4 @@
-def prime?(2)
+def prime?(n)
   require 'prime'
   
 end
