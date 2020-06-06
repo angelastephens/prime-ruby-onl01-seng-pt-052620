@@ -3,8 +3,8 @@ def prime?(n)
     return false
   else
     (2..n-1).to.a.all? do |possible_factor|
-    n % possible_factor != 0
+       n % possible_factor != 0
+    end
   end
-end
 end
 
