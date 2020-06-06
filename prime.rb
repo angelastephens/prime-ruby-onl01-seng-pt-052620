@@ -3,5 +3,5 @@ def prime?(n)
 end
 
 def prime?(n)
-   puts n(1...10).prime?
+  n(1...10).prime?
 end
