@@ -1,4 +1,4 @@
-def prime?(n)
+def prime?(2)
   
 
 end
